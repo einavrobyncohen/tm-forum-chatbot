@@ -7,7 +7,7 @@ __pycache__/
 *.env
 
 # Models and large files
-*.faiss
+#*.faiss
 #*.json
 *.safetensors
 *.h5
