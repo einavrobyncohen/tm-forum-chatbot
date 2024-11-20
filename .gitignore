@@ -1,0 +1,24 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Environment
+.env
+*.env
+
+# Models and large files
+*.faiss
+#*.json
+*.safetensors
+*.h5
+*.ckpt
+
+# Flask settings
+instance/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
